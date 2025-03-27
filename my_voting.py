@@ -1,4 +1,4 @@
-"""SDEV 300 6381
+"""
 Assignment: Lab 1
 Name: Timothy Eckart
 Date: 11 May 2024"""""
